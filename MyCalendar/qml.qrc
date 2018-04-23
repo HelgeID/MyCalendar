@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyBackground.qml</file>
+        <file>MyCalendar.qml</file>
+        <file>MyNotes.qml</file>
+        <file>MyProperty.qml</file>
+        <file>MyText.qml</file>
+        <file>MyTextButton.qml</file>
+        <file>MyData.qml</file>
+        <file>InfoText.qml</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>img/calendar.png</file>
+        <file>img/exit.png</file>
+        <file>img/field.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>img/background.png</file>
+    </qresource>
+    <qresource prefix="/note">
+        <file>img/note.png</file>
+    </qresource>
+    <qresource prefix="/slider">
+        <file>img/slider_down.png</file>
+        <file>img/slider_up.png</file>
+    </qresource>
+</RCC>
