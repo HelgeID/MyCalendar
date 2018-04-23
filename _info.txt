@@ -1,0 +1,2 @@
+*MyCalendar*
+Project was developed on Qt Creator 4.3.1 (Community), Qt Quick
